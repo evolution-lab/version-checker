@@ -1,0 +1,24 @@
+{
+  "name": "evolution-lab/version-checker",
+  "version": "1.0.0",
+  "type": "library",
+  "description": "Faciliates checking the required software versions.",
+  "homepage": "https://github.com/evolution-lab/version-checker",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Amir Mahdi Khorshidi",
+      "email": "amkgplus@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Evo\\Version\\": "src"
+    }
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^5.0",
+    "phpunit/phpunit": "^8.5"
+  }
+}

@@ -1,0 +1,8 @@
+/node_modules/*
+/vendor/*
+/logs/*
+/tests/*
+.env
+.*
+!/.gitignore
+phpunit.xml
