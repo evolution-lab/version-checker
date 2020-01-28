@@ -1,3 +1,3 @@
 # Version Checker
 
-Faciliates checking the required software versions.
+Facilitates checking the required software versions.
